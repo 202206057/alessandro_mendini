@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.wrap1{
+    width: 100%;
+    height: 100vh;
+    background-image: url('img04/04_01.png');
+    background-position: center;
+    background-size: cover;
+}
+.bt{
+    width: 137px;
+    height: 88px;
+    position: absolute;
+    margin-left: 1752px;
+    bottom: 20px;
+    z-index: 0;
+}
+.wrap2{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+}
+.fr_set{
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto; 
+}
+.fr03{
+    width: 55%;
+    height: 50px;
+    position: relative;
+    top: 956px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.s_b00{
+    width: 1100px;
+    height: 5270px;
+    top: 0;
+}
+.s_b01{
+    width: 284px;
+    height: 85px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 148px;
+}
+.s_b02{
+    width: 1100px;
+    height: 850px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 148px;
+}
+.s_b03{
+    width: 1100px;
+    height: 127px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 84px;
+}
+.s_b04{
+    width: 1100px;
+    height: 194px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 140px;
+}
+.s_b05{
+    width: 1100px;
+    height: 239px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 84px;
+}
+.s_b06{
+    width: 1100px;
+    height: 616px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 256px;
+}
+.s_b07{
+    width: 1100px;
+    height: 142px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 170px;
+}
+.s_b08{
+    width: 1100px;
+    height: 189px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 70px;
+}
+.s_b09{
+    width: 1100px;
+    height: 723px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 61px;
+}
+.s_b10{
+    width: 1100px;
+    height: 189px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 70px;
+}
+.s_b11{
+    width: 1100px;
+    height: 189px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 70px;
+}
+.s_b12{
+    width: 100%;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 331px;
+}
